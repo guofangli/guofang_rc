@@ -1,0 +1,6 @@
+
+# Guofang shortcuts
+# Use line below to include it in .bashrc
+# . ~/.bashrc_guofang
+alias zsrc="cd ~/gs/learning/zeromq"
+alias v="vim -p *.cpp *.hpp *.h Makefile"
